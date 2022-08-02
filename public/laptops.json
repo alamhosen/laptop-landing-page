@@ -1,0 +1,76 @@
+[
+    {
+      "_id": 1,
+      "name": "Dell ",
+      "img1":"https://i.ibb.co/F85vWsf/dell-1.jpg",
+      "img2":"https://i.ibb.co/jrPqJh4/dell-2.jpg",
+      "img3":"https://i.ibb.co/Bn31M8F/dell-3.jpg",
+      "title": "Dell Inspiron 15 3510 Intel Pentium Silver N5030 15.6 HD Laptop",
+      "mpn": "WARLOCKN315GLK22056000",
+      "model":"Inspiron 15 3510",
+      "processor":"Intel Pentium Silver N5030 (4MB Cache, 1.10 GHz Up To 3.10 GHz )",
+      "ram":"4GB 2400MHz DDR4",
+      "storage":"1TB SATA 5400RPM",
+      "display":"15.6 HD (1366 x 768) LED",
+      "retailPrice":"699.00",
+      "sellPrice":"599.00"
+    },
+    {
+      "_id": 2,
+      "name": "Acer",
+      "img1":"https://i.ibb.co/WvGgBfF/acer-1.jpg",
+      "img2":"https://i.ibb.co/TY0hVYJ/acer-2.jpg",
+      "img3":"https://i.ibb.co/tcQw6D7/acer-3.jpg",
+      "title": "Acer Nitro 5 AN515-44 AMD Ryzen 7 4800H GTX 1650Ti 4GB Graphics 15.6 144Hz FHD Gaming Laptop",
+      "mpn": "NH.Q9NSI.002",
+      "model":"Acer Nitro 5 AN515-44 GTX 1650Ti",
+      "processor":"AMD Ryzen 7 4800H Processor (8MB Cache, 2.9GHz up to 4.2GHz)",
+      "ram":"16 GB RAM",
+      "storage":"256GB SSD + 1TB HDD",
+      "display":"15.6 144Hz Full HD Display",
+      "retailPrice":"699.00",
+      "sellPrice":"599.00"
+    },
+    {
+      "_id": 3,
+      "name": "Dell  ",
+      "img1":"https://i.ibb.co/52QN6j2/vostro-1.jpg",
+      "img2":"https://i.ibb.co/TwF49QQ/vostro-2.jpg",
+      "img3":"https://i.ibb.co/svn5ct9/vostro-3.jpg",
+      "title": "Dell Vostro 14 3400 Core i3 11th Gen 14 inch HD Laptop with 03 Years Warranty",
+      "mpn": "BULLSEYEV14TGL21054001",
+      "model":"Vostro 14 3400",
+      "processor":"Intel Core i3-1115G4 Processor (6MB Cache, 3.0 GHz up to 4.10 GHz)",
+      "ram":"4GB DDR4 2666MHz RAM",
+      "storage":"1TB 5400 rpm 2.5 inch SATA Hard Drive",
+      "display":"14.0-inch HD (1366 x 768) Display",
+      "retailPrice":"699.00",
+      "sellPrice":"599.00"
+    },
+    {
+      "_id": 4,
+      "name": "Lenovo ",
+      "img1":"https://i.ibb.co/TTQc9Lm/lenovo-1.jpg",
+      "img2":"https://i.ibb.co/Xpxb2S5/lenovo-2.jpg",
+      "img3":"https://i.ibb.co/LtxyjQC/lenovo-3.jpg",
+      "title": "Lenovo IdeaPad D330 10IGL Intel CDC N4020 10.1 inch HD Touch Laptop",
+      "mpn": "82H0001VIN",
+      "model":"IdeaPad D330 10IGL",
+      "processor":"Intel Celeron N4020 (4M Cache,1.10 GHz up to 2.80 GHz)",
+      "ram":"4GB DDR4",
+      "storage":"128GB eMMC",
+      "display":"10.1 inch (1280 x 800) HD Touchscreen",
+      "retailPrice":"699.00",
+      "sellPrice":"599.00"
+    }
+     
+ 
+  ]
+  
+  
+  
+  
+  
+  
+
+  
