@@ -3,13 +3,15 @@ import contactUs from '../../images/contact-us.png'
 
 const ContactUs = () => {
     return (
-        <div className='mb-10' id='contact'>
-            <h1 className='text-5xl font-bold text-center'>Let’s chat and get a quote!</h1>
-            <div className="hero">
-                <div className="hero-content flex-col lg:flex-row-reverse">
+        <div className='mb-10 mx-12' id='contact'>
+            <h1 className='text-3xl lg:text-5xl md:text-4xl font-bold text-center'>Let’s chat and get a quote!</h1>
+            <div className="my-10">
+                <div className="grid items-center justify-center grid-cols-1 lg:grid-cols-2 md:grid-cols-2">
+                    <div className='lg:order-last md:order-last'>
                     <img src={contactUs} alt="" data-aos="zoom-in"
                 data-aos-duration="900"/>
-                    <div className="card lg:w-96 w-full shadow-2xl bg-base-100">
+                    </div>
+                    <div className="card lg:w-4/5 w-full shadow-2xl bg-base-100">
                         <div className="card-body">
                             <div className="form-control">
                                 <label className="label">

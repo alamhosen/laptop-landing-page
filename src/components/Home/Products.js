@@ -3,8 +3,8 @@ import React from 'react';
 const Products = () => {
     return (
         <div id='features'>
-            <div className="hero mt-28 mb-10">
-                <div className="hero-content flex-col lg:flex-row">
+            <div className="mt-28 mb-10 mx-12">
+                <div className="grid items-center justify-center grid-cols-1 lg:grid-cols-2 md:grid-cols-1">
                     {/* slide start  */}
                     <div className="carousel w-full">
                         <div id="slide10" className="carousel-item relative w-full">
@@ -42,9 +42,8 @@ const Products = () => {
                         </div>
                     </div>
                     {/* slide end */}
-                    <div></div>
                     <div>
-                        <h1 className="text-3xl font-bold" data-aos="fade-up"
+                        <h1 className="text-2xl lg:text-4xl md:text-4xl  font-bold" data-aos="fade-up"
                 data-aos-duration="900">Acer Nitro 5 AN515-44 AMD Ryzen 7 4800H GTX 1650Ti 4GB Graphics 15.6 144Hz FHD Gaming Laptop</h1>
                         <h2 className='text-2xl my-4 font-bold'>Features:</h2>
                         <p><strong>MPN:</strong> NH.Q9NSI.002</p>

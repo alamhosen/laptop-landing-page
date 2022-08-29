@@ -12,7 +12,7 @@ const Laptops = () => {
 
     return (
         <div id='shop'>
-            <h2 className='text-center text-5xl font-bold'>Buy Your Favorite Laptop</h2>
+            <h2 className='text-center text-3xl lg:text-5xl md:text-4xl font-bold'>Buy Your Favorite Laptop</h2>
             <div className='px-10'>
                 <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5'>
 
